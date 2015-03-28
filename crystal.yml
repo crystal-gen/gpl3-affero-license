@@ -1,0 +1,8 @@
+name: gpl3-affero-license
+version: 0.1.0
+description: GNU Affero General Public License v3.0 generator
+
+gen:
+  file:
+    license:
+      dest: LICENSE

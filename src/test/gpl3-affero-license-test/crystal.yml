@@ -1,0 +1,7 @@
+name: gpl3-affero-license-test
+version: 0.1.0
+description: gpl3-affero-license test
+
+generators:
+  gpl3-affero-license:
+    version: latest
